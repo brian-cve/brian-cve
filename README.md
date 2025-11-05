@@ -58,7 +58,7 @@ Built with **Unity (C#)** — focused on immersive storytelling, atmosphere, and
 - 🕹️ [brian-cve/GoatStudios](https://github.com/brian-cve/GoatStudios)  
 - 💻 [brian-cve/brian-cve](https://github.com/brian-cve/brian-cve)
 
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-cve&show_icons=true&theme=dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brian-cve&theme=github-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-cve&layout=compact&theme=dark&hide_border=true)
 
 ---
