@@ -60,7 +60,6 @@ Built with **Unity (C#)** — focused on immersive storytelling, atmosphere, and
 
 ![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-cve&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-cve&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brian-cve&theme=dark&hide_border=true)
 
 ---
 
