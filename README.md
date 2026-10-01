@@ -1,7 +1,3 @@
-<!-- 👇 Banner superior (puedes reemplazar el enlace con tu imagen personalizada) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brian-cve/brian-cve/main/banner-github-brian.png" alt="Brian Rodríguez - Game Developer & Designer" width="100%">
-</p>
 
 # 👋 Hi, I'm Brian Rodríguez  
 
